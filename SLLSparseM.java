@@ -102,5 +102,7 @@ public class SLLSparseM implements SparseM {
 
 
 	}
+	
+	// Adding two spare matrices. If the other matrix has a nonzero value in this node replace.
 
 }
